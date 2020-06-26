@@ -4,9 +4,9 @@ This example shows more advanced technique to run mongo db using `docker-compose
 
 ## 1. Prerequisities
 
-If you have made [1-run-script example](../1-run-script), you can skip this section. Just ensure you stop and remove any mongo container.
+If you have made [1-run-script example](https://github.com/besnik/tutorials/tree/master/mongo-as-docker-container/1-run-script), you can skip this section. Just ensure you stop and remove any mongo container.
 
-Using [1-run-script example](../1-run-script) setup following things:
+Using [1-run-script example](https://github.com/besnik/tutorials/tree/master/mongo-as-docker-container/1-run-script) setup following things:
 - directory structure
 - install mongo CLI
 
